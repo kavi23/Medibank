@@ -1,5 +1,6 @@
 # Medibank
 Medibank Code Challenge
+
 Minimalist code to Walk through folders and subfolders within a provided directory and sort them based on highest occurences
 
 Notes
